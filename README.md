@@ -1,2 +1,2 @@
 # photosynthesis
- create virtual food and eradicate hunger
+ ##virtual cholorophyl
